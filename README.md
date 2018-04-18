@@ -2,19 +2,21 @@
 
 O teste consiste basicamente em algumas perguntas abaixo e um teste pratico, basta clonar o repositÃrio responder as perguntas no próprio README.md e submeter o pull request.
 
-Você já teve alguma experiências em desenvolvimento componentes customizados? Como evitar o problema de componentes complexos com baixa performance?
+## Questionário
 
-Quais patterns você já usou ou conhece para otimizar as chamadas a APIs Rest?
+* Você já teve alguma experiências em desenvolvimento componentes customizados? Como evitar o problema de componentes complexos com baixa performance?
 
-Como lidar com cache (browser/cdn/proxy) no lançamento das novas versões da sua aplicação web?
+* Quais patterns você já usou ou conhece para otimizar as chamadas a APIs Rest?
 
-Na sua opinião, quais são as vantagens de React? quais são as desvantagens/riscos no uso do React?
+* Como lidar com cache (browser/cdn/proxy) no lançamento das novas versões da sua aplicação web?
 
-Considerando uma tela em React contendo informações em tempo real, que deve ser atualizada sempre que ocorrer um determinada ação no servidor, qual arquitetura ou protocolo de comunicação você utilizaria?
+* Na sua opinião, quais são as vantagens de React? quais são as desvantagens/riscos no uso do React?
 
-Você já implementou reat com suporte a i18n ? quais os pontos importantes a serem considerados?
+* Considerando uma tela em React contendo informações em tempo real, que deve ser atualizada sempre que ocorrer um determinada ação no servidor, qual arquitetura ou protocolo de comunicação você utilizaria?
 
-# Teste Prático 
+* Você já implementou reat com suporte a i18n ? quais os pontos importantes a serem considerados?
+
+## Teste Prático 
 
 Considerando a arquitetura básica utilizando React + Redux, criar uma app contemplando as 3 telas:
 
