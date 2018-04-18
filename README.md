@@ -1,6 +1,6 @@
 # Quer fazer parte da Superbid Webservices ?
 
-O teste consiste basicamente em algumas perguntas abaixo e um teste pratico, basta clonar o repositÃrio responder as perguntas no prÃprio README.md e submeter o pull request.
+O teste consiste basicamente em algumas perguntas abaixo e um teste pratico, basta clonar o repositÃrio responder as perguntas no próprio README.md e submeter o pull request.
 
 Você já teve alguma experiências em desenvolvimento componentes customizados? Como evitar o problema de componentes complexos com baixa performance?
 
