@@ -20,7 +20,7 @@ O teste consiste basicamente em algumas perguntas abaixo e um teste pratico, bas
 
 Considerando a arquitetura básica utilizando React + Redux, criar uma app contemplando as 3 telas:
 
-
+![Draft](./draft.png)
 
 Consumir a seguinte api:
 
