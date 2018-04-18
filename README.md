@@ -22,3 +22,7 @@ Considerando a arquitetura básica utilizando React + Redux, criar uma app conte
 
 
 
+Consumir a seguinte api:
+
+https://jsonplaceholder.typicode.com/photos
+
