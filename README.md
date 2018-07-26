@@ -6,27 +6,27 @@ O teste consiste basicamente em algumas perguntas abaixo e um teste pratico, bas
 
 * Você já teve alguma experiências em desenvolvimento componentes customizados? Como evitar o problema de componentes complexos com baixa performance?
 
-Já criei alguns componentes customizados. Componentes complexos não devem causar renders demais, se possível.
+  Já criei alguns componentes customizados. Componentes complexos não devem causar renders demais, se possível.
 
 * Quais patterns você já usou ou conhece para otimizar as chamadas a APIs Rest?
 
-Costumo usar fetch
+  Costumo usar fetch
 
 * Como lidar com cache (browser/cdn/proxy) no lançamento das novas versões da sua aplicação web?
 
-Ctrl+F5 ou forçar limpeza do cache no browser
+  Ctrl+F5 ou forçar limpeza do cache no browser
 
 * Na sua opinião, quais são as vantagens de React? quais são as desvantagens/riscos no uso do React?
 
-Uso de components e bastante tópicos e discussão hj em dia são boas vantagens, mas depender de third party libraries que podem não ser atualizadas é um risco.
+  Uso de components e bastante tópicos e discussão hj em dia são boas vantagens, mas depender de third party libraries que podem não ser atualizadas é um risco.
 
 * Considerando uma tela em React contendo informações em tempo real, que deve ser atualizada sempre que ocorrer um determinada ação no servidor, qual arquitetura ou protocolo de comunicação você utilizaria?
 
-Como num chat? Ainda não tive experiência com isso.
+  Como num chat? Ainda não tive experiência com isso.
 
 * Você já implementou reat com suporte a i18n ? quais os pontos importantes a serem considerados?
 
-Ainda não
+  Ainda não
 
 ## Teste Prático 
 
@@ -38,5 +38,6 @@ Consumir a seguinte api:
 
 https://jsonplaceholder.typicode.com/photos
 
-Deixei o App.js neste link: https://github.com/brunokeiti/react_redux_album/blob/master/src/App.js
+_Deixei o App.js neste link:_
+https://github.com/brunokeiti/react_redux_album/blob/master/src/App.js
 
