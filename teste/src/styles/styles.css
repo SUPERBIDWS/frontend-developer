@@ -1,0 +1,19 @@
+/* Styles */
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  min-width: 360px;
+  max-width: 850px;
+  margin: 35px auto;
+}
+a {
+  color:white !important;
+  font-size:2rem
+}
+a.active {
+  color: orange;
+}
+
+nav {
+  padding-top: 20px;
+}
