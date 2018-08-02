@@ -10,8 +10,6 @@ export class AlbumPage extends Component {
 
     this.state = {
       album:  props.album,
-      foto: false,
-      url: '',
     };
   }
 

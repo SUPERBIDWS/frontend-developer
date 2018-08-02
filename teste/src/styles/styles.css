@@ -8,10 +8,23 @@
 }
 a {
   color:white !important;
-  font-size:2rem
+  font-size:1rem
 }
 a.active {
   color: orange;
+}
+
+.album {
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
+
+.album h1 {
+    padding:50px 0;
 }
 
 nav {

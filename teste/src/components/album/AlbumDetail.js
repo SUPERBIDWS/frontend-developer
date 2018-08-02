@@ -41,8 +41,8 @@ class AlbumDetail extends Component {
 
     return (
       <div>
-        <div style={{"height" : "50%", "width" : "100%", padding:50,textAlign:'center', backgroundColor:'gray', color:'white'}}>
-          <h1 onClick={() => this.redirect()}>Álbum {album[0].albumId}</h1>
+        <div className="album">
+          <h1  onClick={() => this.redirect()}>Álbum {album[0].albumId}</h1>
         </div>
        {Array.isArray(album) && album.map((item, i) => {
             return(
