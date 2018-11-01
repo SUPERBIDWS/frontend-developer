@@ -1,0 +1,13 @@
+header#header-principal {
+    height: 60px;
+    width: 100%;
+    background: #f48641;
+    color: #FFF;
+    font-size: 28px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px #000;
+    border-radius: 5px;
+}
