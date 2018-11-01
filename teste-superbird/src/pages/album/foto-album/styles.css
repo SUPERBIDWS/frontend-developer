@@ -1,0 +1,25 @@
+.foto-header {
+    padding: 2%;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background: #F4F4F4;
+}
+
+.foto-item {
+    padding: 3%;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 10px;
+    justify-content: center;
+    
+}
+
+.foto-content {
+    border-radius: 5px;
+    padding: 50px;
+    background: #F4F4F4;
+    display: grid;
+    justify-content: center;
+}

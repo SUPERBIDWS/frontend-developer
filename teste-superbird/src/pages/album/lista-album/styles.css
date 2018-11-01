@@ -1,0 +1,16 @@
+.album-wrapper {
+    padding: 2%;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 10px;
+    justify-content: center;
+    background: #FFF;
+}
+
+.album-content {
+    border-radius: 5px;
+    padding: 50px;
+    flex-wrap: wrap;
+    background: #F4F4F4;
+    cursor: pointer;
+}
