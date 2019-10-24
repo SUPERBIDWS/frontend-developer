@@ -1,0 +1,110 @@
+.App {
+  position: relative;
+  text-align: center;
+  background-color: #282c34;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 1000px;
+  overflow: hidden;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#AlbumContainer_component {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 25px;
+  display: flex;
+  flex-flow: row wrap;
+  overflow: scroll;
+}
+
+#Header_component {
+  width: calc(90% - 100px);
+  height: 100px;
+  background-color: #ccc;
+  margin: 50px;
+}
+
+.Album_component {
+  width: calc(30% - 100px);
+  position: relative;
+  margin: 50px;
+  text-align: center;
+}
+
+.album-cover {
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+.album-label {
+  position: absolute;
+  width: 100%;
+  z-index: 20;
+}
+
+.album-modal {
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 50px;
+  background-color: #282c346e;
+  z-index: 200;
+}
+
+.album-modal button {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.modal-img {
+  position: relative;
+}
+
+.modal-img h2 {
+  position: absolute;
+  width: 100%;
+  padding: 25px;
+}
+
+.back-button {
+  position: relative;
+  justify-self: flex-end;
+  align-self: flex-end;
+}
